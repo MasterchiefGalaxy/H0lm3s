@@ -64,4 +64,4 @@ python3 H0lmes.py -h
 
 ![Help Screenshot](help.png)
 
-![Help Screenshot](Example.png)
+![Help Screenshot](Example2.png)

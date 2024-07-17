@@ -17,3 +17,21 @@ cd H0lm3s
 
 pip install -r requirements.txt
 
+Brute Force
+python3 H0lmes.py <hash> -b --max-length 8
+
+Dictionary Attack
+python3 H0lmes.py <hash> -w /usr/share/wordlists/rockyou.txt
+
+NTLMv2 Attack
+python3 H0lmes.py <ntlmv2_hash> -w /usr/share/wordlists/rockyou.txt -u <user> -t <target>
+
+Brute Force with Custom Charset
+python3 H0lmes.py <hash> -b --charset abcdef -max-length 6
+
+Rule-Based Wordlist Generation Attack
+python3 H0lmes.py <hash> -w /path/to/wordlist.txt --rules
+
+Help
+python3 H0lmes.py -h
+![Alt text](screenshots/help.png)

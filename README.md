@@ -13,9 +13,7 @@ H0lmes is a password-cracking tool that supports multiple hash types and brute-f
 ```sh
 git clone https://github.com/MasterchiefGalaxy/H0lm3s.git
 
-```sh
 cd H0lm3s
 
-```sh
 pip install -r requirements.txt
 

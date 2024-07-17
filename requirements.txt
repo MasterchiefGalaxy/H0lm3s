@@ -1,0 +1,8 @@
+argparse
+hashlib
+itertools
+string
+pycryptodome
+passlib
+tqdm
+argon2-cffi

@@ -35,5 +35,4 @@ python3 H0lmes.py <hash> -w /path/to/wordlist.txt --rules
 Help
 python3 H0lmes.py -h
 
-  ```markdown
-   ![Help Screenshot](help.png)
+![Help Screenshot](help.png)

@@ -63,3 +63,5 @@ python3 H0lmes.py -h
 ## Screenshots
 
 ![Help Screenshot](help.png)
+
+![Help Screenshot](Example.png)

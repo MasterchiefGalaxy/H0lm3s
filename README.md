@@ -17,6 +17,8 @@ cd H0lm3s
 
 pip install -r requirements.txt
 
+## Example Usage
+
 Brute Force Attack:
 python3 H0lmes.py <hash> -b --max-length 8
 

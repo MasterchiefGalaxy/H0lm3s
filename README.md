@@ -14,3 +14,5 @@ H0lmes is a password-cracking tool that supports multiple hash types and brute-f
 git clone https://github.com/MasterchiefGalaxy/H0lm3s.git
 cd H0lm3s
 pip install -r requirements.txt
+![Example](https://github.com/user-attachments/assets/4868e52b-7165-49b6-b9b0-2b48909547c3)
+![help](https://github.com/user-attachments/assets/53fb203a-f7cf-4eee-90e2-787c6494c024)
